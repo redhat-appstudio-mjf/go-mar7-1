@@ -1,4 +1,4 @@
-# Creating an application with a Go code sample test
+# Creating an application with a Go code sample test2
 
 **Note:** The Go code sample uses the **8081** HTTP port.
 
